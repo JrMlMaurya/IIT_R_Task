@@ -2,4 +2,4 @@ tiktoken
 verovio
 streamlit
 transformers
-pytorch
+torch

@@ -3,3 +3,4 @@ verovio
 streamlit
 transformers
 torch
+torchvision

@@ -2,3 +2,4 @@ tiktoken
 verovio
 streamlit
 transformers
+pytorch

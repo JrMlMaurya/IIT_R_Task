@@ -1,4 +1,4 @@
-# IIR_R_Task
+# IIT_R_Task
 
 ## OCR processing 
 

@@ -1,7 +1,0 @@
-tiktoken 
-verovio
-streamlit
-transformers
-torch
-torchvision
-accelerate
